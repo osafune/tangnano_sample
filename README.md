@@ -1,2 +1,11 @@
-# tangnano_sample
- Tang-nano LCD sample
+Tang-nano LED & LCD sample
+==========================
+
+Tang-nanoボードのLED & LCD表示サンプルプロジェクトです。
+
+- ボード上のRGB LEDをグラデーション点灯させます。
+- ボタンBを押すとIO13Aピンに1bit⊿Σでメロディチャイムを再生します。
+- 40ピンFPCに480x272の解像度でカラーパターンを表示します。以下のパネルで動作を確認しています。
+	- FG040346DSSWBG03 (共立／デジット)
+	- ATM0430D5 (秋月)
+	- ATM0430D25 (秋月)

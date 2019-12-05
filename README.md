@@ -9,3 +9,4 @@ Tang-nanoボードのLED & LCD表示サンプルプロジェクトです。
 	- FG040346DSSWBG03 (共立／デジット)
 	- ATM0430D5 (秋月)
 	- ATM0430D25 (秋月)
+	- HT043DA-V.0 (aitendo)

@@ -114,11 +114,11 @@ module tangnano_top (
 	vga_syncgen #(
 		.H_TOTAL	(525),		// ATM0430D5(480x272,60Hz) / 9.0MHz
 		.H_SYNC		(40),
-		.H_BACKP	(0),
+		.H_BACKP	(3),
 		.H_ACTIVE	(480),
 		.V_TOTAL	(286),
 		.V_SYNC		(3),
-		.V_BACKP	(0),
+		.V_BACKP	(2),
 		.V_ACTIVE	(272)
 
 //		.H_TOTAL	(953),		// SH050JGB30-05004Y(800x480,60Hz) / 30.0MHz
